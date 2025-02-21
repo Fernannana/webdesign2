@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title> Everything About Maria Garcia!</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<style>
+
+body { background-color: #f3e2f8;
+	color: #000000;
+	font-family:Raleway, Nunito, Rubik; }
+header { background-color:#ED96E6;
+	color:#FEFEFF;
+	font-family:Work Sans, Quicksand, Manrope;
+		text-indent: 1em: }
+nav { word-spacing: 1em; }
+.container{ 
+	width:80px ;
+	margin: 0 auto;
+	justify-content: center; 
+	display:flex; }
+.containers{
+	width:80px ; 
+	margin: 0 auto; 
+	justify-content: right;
+	display:flex; }
+h2 { color:#4E1E70;
+	font-family:Georgia, "Times New Roman", serif;
+	text-indent: 0 ;
+	text-align: left; }
+h3 { background-color: #EAC7F1;v
+	color: #4E1E70 ;
+	font-family: Georgia, "Times New Roman", serif;
+	text-indent: 0 ;
+	text-align: center; }
+p { font-size: 20px ;
+	font-family:  Georgia, "Times New Roman", serif;
+	text-indent: 0 ; }
+ol { font-size: 20px; } 
+footer { font-style: italic;
+	font-size: .75em; }
+</style>
+</head>
+
+<body>
+<header>
+ <h1> Everything About Maria Garcia!</h1>
+</header>
+ <h2> This is my boyfriend and I!</h2>
+
+<div class="container">
+	<img src="halloween_us.jpg" alt="Damion and I" width="200%" height="100%">
+	<img src="shopper_jpg.jpg" alt="Personal Shopper" width="200%" height="100%">
+</div>
+
+<p> As shown in the photo in the left, my boyfriend and i are super close and we have been together for almost 3 years! </p>
+<p> I am a junior in college pursuing a CIS degree to become a data analyst! </p>
+<p> I currently work at H-E-B as a personal shopper, just doing my best to save up for school. </p>
+
+ <main>
+ <h3> Intrests and Hobbies!</h3>
+<p> I am interested in making anything with crochet like: </p>
+<ol>
+	<li>Ear muffs</li>
+	<li>Gloves</li>
+	<li>Beanies</li>
+	<li>and blankets!</li>
+</ol>
+<p> During covid, I started to crochet to keep myself occupied. Although, ive been slowing down recently, i still find entertainment into making clothing/decor items. </p>
+<p> I also have a lot of love for cats! I have a cat of my own called "Pepper"!</p>
+
+<img src="pepcat.jpeg" alt="Pepper the cat" Width="45%" Height="35%">
+
+<P> Going to school kills alot of my personal time as it turn into my time for homework and notes. However, one hobby that will stick with me is doing nails! </p>
+<p> I do my own nails, saving me hundreds of dollars, every other week. I have always been creative. </p> 
+
+<div class="containers"> 
+	<img src="nailset_1.jpg" alt="example of nails" width="200%" height="80%">
+	<img src="nailset_2.jpg" alth="example of second set" width="200%" height="100%">
+</div>
+
+<footer> 
